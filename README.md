@@ -9,5 +9,5 @@ This is a simple set of scripts to create a Docker image for Unison language dev
 ## Run a shell inside a Debian image
 
 > make run
-> # ucm init
-> # ucm
+> $ ucm init
+> $ ucm
